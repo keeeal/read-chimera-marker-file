@@ -1,5 +1,7 @@
 # read-chimera-marker-file
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15062882.svg)](https://doi.org/10.5281/zenodo.15062882)
+
 This script does the following:
 
 1. Parses a [Chimera marker file](https://www.cgl.ucsf.edu/chimera/docs/ContributedSoftware/volumepathtracer/volumepathtracer.html#markerfiles) and reads the coordinates into a numpy array.
