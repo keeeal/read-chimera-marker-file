@@ -1,6 +1,7 @@
 # read-chimera-marker-file
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15062882.svg)](https://doi.org/10.5281/zenodo.15062882)
+[![PAPER](https://img.shields.io/badge/PAPER-10.1038%2Fs41467--025--58514--x-blue)](https://doi.org/10.1038/s41467-025-58514-x)
 
 This script does the following:
 
